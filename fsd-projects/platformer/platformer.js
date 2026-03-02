@@ -50,6 +50,7 @@ createCollectable("kennedi", 90,150,0.2,0.7);
 
 createCannon("top", 200, 1200);
 createCannon("right", 300, 1100);
+createCannon("bottom", 300, 1100);
     
     
     //////////////////////////////////
